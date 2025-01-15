@@ -16,3 +16,5 @@ Una vez realizada la suma, el resultado aparecera debajo del boton de calculo
 ![inicio](/img/inicio3.png "Vista de la aplicación errores")
 
 ![inicio](/img/inicio4.png "Vista de la aplicación errores resultado")
+
+Para iniciar el proyecto hay que ejecutar la actividad y luego emplearla en el emulador del android studio
